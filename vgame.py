@@ -57,6 +57,7 @@ annot_max(x,MeanGame(x))
 plt.show()
 
 
+#next step: better plot and strategy
 
 
 
