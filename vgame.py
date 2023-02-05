@@ -58,6 +58,7 @@ plt.show()
 
 
 #next step: better plot and strategy
+#raspberry pi on prep
 
 
 
